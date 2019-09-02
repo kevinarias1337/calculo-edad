@@ -1,0 +1,10 @@
+D:\añodenacimiento\añodenacimiento\bin\Debug\añodenacimiento.exe.config
+D:\añodenacimiento\añodenacimiento\bin\Debug\añodenacimiento.exe
+D:\añodenacimiento\añodenacimiento\bin\Debug\añodenacimiento.pdb
+D:\añodenacimiento\añodenacimiento\obj\Debug\añodenacimiento.csprojAssemblyReference.cache
+D:\añodenacimiento\añodenacimiento\obj\Debug\añodenacimiento.programa.resources
+D:\añodenacimiento\añodenacimiento\obj\Debug\añodenacimiento.Properties.Resources.resources
+D:\añodenacimiento\añodenacimiento\obj\Debug\añodenacimiento.csproj.GenerateResource.cache
+D:\añodenacimiento\añodenacimiento\obj\Debug\añodenacimiento.csproj.CoreCompileInputs.cache
+D:\añodenacimiento\añodenacimiento\obj\Debug\añodenacimiento.exe
+D:\añodenacimiento\añodenacimiento\obj\Debug\añodenacimiento.pdb
